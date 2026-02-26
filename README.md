@@ -7,4 +7,4 @@ Isabella Sessi, James B. Henderson, Jessica Martin, Alice Skehel, Vera de Ferran
 
 
 Access to Publication and Genome information here 10.1093/g3journal/jkag004
-
+Genome browser https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_055471825.1

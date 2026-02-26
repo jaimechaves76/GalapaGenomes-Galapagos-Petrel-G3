@@ -6,5 +6,5 @@ These codes were used for generating the genome of the Galapagos Petrel, as repo
 Isabella Sessi, James B. Henderson, Jessica Martin, Alice Skehel, Vera de Ferran, John Dumbacher, Jaime A. Chaves
 
 
-
+Access to Publication and Genome information here 10.1093/g3journal/jkag004
 
